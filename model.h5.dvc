@@ -1,0 +1,4 @@
+outs:
+- md5: aa4a7cd8df67eed89c2e83fd412b4f33
+  size: 8406328
+  path: model.h5
